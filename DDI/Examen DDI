@@ -1,0 +1,18 @@
+Un formulario en el que dar de Alta a personas. Esas personas tendran:
+- CodPersona
+- Nombre
+- Apellido
+
+Tendremos que hacer:
+- Alta de personas 1p
+- Modificación 1p
+- Eliminación 1p ( a la hora de eleminar, que se pregunte si se quiere eliminar o no)
+- Listado (en el que habrá un boton para "Añadir mascota") 3p
+
+añadir la mascota tendrá: 2p
+- Nombre de la mascota
+- codPersona
+
+Habra que poner un buscado, en el que busque el nombre de la mascota (lo mas seguro es que pete) 2p
+
+
